@@ -6,7 +6,6 @@
 #include<boost/property_tree/json_parser.hpp>
 //библиотека с умными указателями
 #include<memory>
-#include<fstream>//потоки из файла
 #include<cctype>//библиотека с методом toupper()
 #include<string>
 //библиотеки для логирования
